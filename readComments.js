@@ -10,7 +10,7 @@ function hex_to_ascii(str1){
 }
 
 function insertComments(comments){
-  html = '<h2>Comments</h2>'
+  html = '<h2>Comments from the blockchain</h2>'
    + '<p>To insert a comment make a transaction to '
    + btcAddress + ' with a transaction message.</p>';
 
