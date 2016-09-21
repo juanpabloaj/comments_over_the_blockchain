@@ -1,2 +1,2 @@
-# comments_over_the_blockchain
+# Comments over the blockchain
 Make comments over the blockchain
